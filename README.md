@@ -1,1 +1,3 @@
 # Snowshop
+
+Added connection string
